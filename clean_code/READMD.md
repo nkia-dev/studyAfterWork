@@ -3,3 +3,4 @@
 #### 목차
 1. [깨끗한 코드](https://github.com/nkia-dev/studyAfterWork/blob/study_cleancode/clean_code/chap1/%EA%B9%A8%EB%81%97%ED%95%9C%EC%BD%94%EB%93%9C.md)
 2. [의미있는 이름](https://github.com/nkia-dev/studyAfterWork/blob/study_cleancode/clean_code/chap2/2_%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%EC%9D%B4%EB%A6%84.md)
+3. [함수](https://github.com/nkia-dev/studyAfterWork/tree/study_cleancode/clean_code/chap3)
