@@ -8,3 +8,6 @@
 5. [형식 맞추기](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap5/5_%ED%98%95%EC%8B%9D%EB%A7%9E%EC%B6%94%EA%B8%B0.md)
 6. [객체와 자료구조](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap6/6_%EA%B0%9D%EC%B2%B4%EC%99%80%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 7. [에러처리](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap7/7_%EC%98%A4%EB%A5%98%EC%B2%98%EB%A6%AC.md)
+8. [경계](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap8/8_chap_%EA%B2%BD%EA%B3%84.md)
+9. [단위테스트](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap9/9_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
+10. [클래스](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap10/10_%ED%81%B4%EB%9E%98%EC%8A%A4.md)
