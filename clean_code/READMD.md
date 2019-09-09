@@ -12,3 +12,6 @@
 9. [단위테스트](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap9/9_%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8.md)
 10. [클래스](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap10/10_%ED%81%B4%EB%9E%98%EC%8A%A4.md)
 11. [시스템](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap11/11_%EC%8B%9C%EC%8A%A4%ED%85%9C.md)
+12. [창발성](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap12/12_%EC%B0%BD%EB%B0%9C%EC%84%B1.md)
+13. [동시성](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap13/13_%EB%8F%99%EC%8B%9C%EC%84%B1.md)
+14. [점진적인 개선](https://github.com/nkia-dev/studyAfterWork/blob/master/clean_code/chap14/14_%EC%A0%90%EC%A7%84%EC%A0%81%EC%9D%B8%20%EA%B0%9C%EC%84%A0.md)
